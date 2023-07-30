@@ -21,3 +21,6 @@ tookeniseerima - tokenise (kaspar)
 gei kood - homogeneous code
 
 Enamike allikas: https://akit.cyber.ee/term/search?utf8=%E2%9C%93&lang=2&q=shorts
+Veel allikaid:
+* https://agiil.github.io/sonastik/#loomaaed
+* https://www.eki.ee/dict/its/index.cgi?Q=backend&F=M&C06=et&C10=1
